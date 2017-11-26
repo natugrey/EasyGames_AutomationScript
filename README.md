@@ -1,1 +1,2 @@
 # EasyGames_AutomationScript
+基于Python的opencv图像处理和win32api而写的一个自动化脚本
